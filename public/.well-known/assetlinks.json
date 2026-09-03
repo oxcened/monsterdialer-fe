@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.alenajam.monsterdialer",
+      "sha256_cert_fingerprints": [
+        "6F:33:BC:8B:D7:9B:36:E7:50:16:92:F6:23:74:E2:DD:E5:21:72:FA:9E:9E:C8:DF:69:EA:F6:3B:8A:11:A9:E1"
+      ]
+    }
+  }
+]
