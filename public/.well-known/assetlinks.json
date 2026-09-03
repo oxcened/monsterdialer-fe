@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "dev.alenajam.monsterdialer",
       "sha256_cert_fingerprints": [
-        "6F:33:BC:8B:D7:9B:36:E7:50:16:92:F6:23:74:E2:DD:E5:21:72:FA:9E:9E:C8:DF:69:EA:F6:3B:8A:11:A9:E1"
+        "6F:33:BC:8B:D7:9B:36:E7:50:16:92:F6:23:74:E2:DD:E5:21:72:FA:9E:9E:C8:DF:69:EA:F6:3B:8A:11:A9:E1",
+        "26:84:78:9D:0A:97:66:F0:2F:56:6C:BF:64:3E:EC:8D:BC:94:CD:03:C6:47:2D:BE:9C:24:57:68:99:62:F4:68"
       ]
     }
   }
