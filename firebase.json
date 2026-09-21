@@ -8,7 +8,7 @@
     "rewrites": [
       {
         "source": "/p/**",
-        "destination": "/index.html"
+        "destination": "/p/index.html"
       }
     ]
   }
